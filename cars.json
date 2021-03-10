@@ -1,0 +1,92 @@
+[
+    {
+        "id": "EB3785AP",
+        "make": "BMW",
+        "model": "M5",
+        "consumption": 8.6,
+        "cost_per_hour": 8,
+        "cost_per_day": 150,
+        "cost_per_week": 700
+    },
+    {
+        "id": "EB8735AP",
+        "make": "Audi",
+        "model": "A3",
+        "consumption": 7.3,
+        "cost_per_hour": 7,
+        "cost_per_day": 130,
+        "cost_per_week": 650
+    },
+    {
+        "id": "PB3274TH",
+        "make": "VW Golf",
+        "model": "MK5",
+        "consumption": 8,
+        "cost_per_hour": 7,
+        "cost_per_day": 130,
+        "cost_per_week": 680
+    },
+    {
+        "id": "PB5778TA",
+        "make": "Seat",
+        "model": "Ibiza",
+        "consumption": 6.4,
+        "cost_per_hour": 6,
+        "cost_per_day": 120,
+        "cost_per_week": 600
+    },
+    {
+        "id": "EB6783AP",
+        "make": "Renault",
+        "model": "Laguna",
+        "consumption": 9,
+        "cost_per_hour": 7.2,
+        "cost_per_day": 135,
+        "cost_per_week": 655
+    },
+    {
+        "id": "PB8538TB",
+        "make": "BMW",
+        "model": "E46",
+        "consumption": 11,
+        "cost_per_hour": 10,
+        "cost_per_day": 200,
+        "cost_per_week": 1100
+    },
+    {
+        "id": "EB4238AP",
+        "make": "Smart",
+        "model": "ForTwo",
+        "consumption": 5.6,
+        "cost_per_hour": 6.7,
+        "cost_per_day": 130,
+        "cost_per_week": 680
+    },
+    {
+        "id": "EB8184AP",
+        "make": "Peugeot",
+        "model": "207",
+        "consumption": 8.1,
+        "cost_per_hour": 7.5,
+        "cost_per_day": 140,
+        "cost_per_week": 740 
+    },
+    {
+        "id": "PB5881TM",
+        "make": "Citroen",
+        "model": "C3",
+        "consumption": 6.2,
+        "cost_per_hour": 5.8,
+        "cost_per_day": 110,
+        "cost_per_week": 580
+    },
+    {
+        "id": "EB1111AP",
+        "make": "Honda",
+        "model": "Civic",
+        "consumption": 6.8,
+        "cost_per_hour": 9.2,
+        "cost_per_day": 165,
+        "cost_per_week": 850
+    }
+]
